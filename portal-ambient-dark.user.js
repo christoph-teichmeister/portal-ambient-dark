@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Portal: Ambient Dark
 // @namespace    https://beyonder.de/
-// @version      2026.10.1
+// @version      2026.10.2
 // @description  Forces dark mode on the Portal and swaps the palette for the old Ambient greys, red accent and slate blue primary.
 // @match        https://portal.beyonder.de/*
 // @match        https://portal-test.beyonder.de/*
 // @author       christoph-teichmeister
+// @icon         https://raw.githubusercontent.com/christoph-teichmeister/portal-ambient-dark/refs/heads/main/icon.svg
 // @run-at       document-start
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/christoph-teichmeister/portal-ambient-dark/refs/heads/main/portal-ambient-dark.user.js
